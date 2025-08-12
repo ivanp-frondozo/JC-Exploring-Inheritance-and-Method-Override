@@ -35,6 +35,10 @@ This simple Java program explores how to work with Inheritance and Method Overri
 
 ![exercise 4](images/exercise4.png)
 
-### Mini challenge 4: Fix the Code
+### Mini challenge 4: Fix the Code - Using protected modifier
 
-![mini challenge 4](images/mini4.png)
+![mini challenge 4](images/mini4.1.png)
+
+### Mini challenge 4: Fix the Code - Using public setters
+
+![mini challenge 4](images/mini4.2.png)
